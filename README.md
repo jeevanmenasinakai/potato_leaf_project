@@ -31,4 +31,4 @@ This project uses deep learning to classify potato leaf diseases (Early Blight, 
 
 ## License
 
-(Specify the license under which your project is distributed)
+(Specify the license under which your project is distributed)# potato
